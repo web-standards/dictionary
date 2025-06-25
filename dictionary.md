@@ -110,7 +110,7 @@
 - border-image-outset — выступ графической рамки
 - border-image-repeat — повторение графической рамки
 - border-image-slice — разбивка графической рамки
-- border-image-source — адрес изображения для графической рамки
+- border-image-source — изображение для графической рамки
 - border-image-width — толщина графической рамки
 - border-radius — скругление рамки
 - border-style — стиль рамки
